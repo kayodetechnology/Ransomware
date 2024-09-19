@@ -58,7 +58,7 @@ An infographic showing the spread and impact of the WannaCry attack.
 Financial Losses: Beyond ransom payments, there are costs for downtime, recovery, and potential legal consequences.
 Reputation Damage: Public trust may suffer, causing long-term harm.
 
-![Case](https://i.imgur.com/8AerZp8.jpeg)
+![Case!](https://i.imgur.com/8AerZp8.jpeg)
 
 A visual chart illustrating the financial and reputational damage caused by ransomware.
 
