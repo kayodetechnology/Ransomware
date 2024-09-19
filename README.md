@@ -42,7 +42,7 @@ Detection: Monitor for abnormal file encryption activities.
 Response Plan: Have an incident response plan in place to contain and eradicate ransomware.
 Restore from Backups: In case of infection, restore from backups without paying the ransom.
 
-![Response](https://i.imgur.com/fEEP7BW.jpeg)
+![Response!](https://i.imgur.com/fEEP7BW.jpeg)
 
 A decision tree illustrating the detection process and response actions.
 
