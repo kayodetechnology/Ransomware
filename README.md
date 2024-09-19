@@ -14,7 +14,7 @@ Malware Installation: The ransomware is installed once the attachment is opened.
 Encryption: The victim's files are encrypted, making them inaccessible.
 Ransom Demand: The attacker demands payment in exchange for the decryption key.
 
-![How](https://i.imgur.com/jF5UP1q.jpeg)
+![How!](https://i.imgur.com/jF5UP1q.jpeg)
 
 A flowchart showing the infection process, encryption, ransom note, and potential outcomes.
 
