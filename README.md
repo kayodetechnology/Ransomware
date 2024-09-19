@@ -23,7 +23,7 @@ Crypto-Ransomware: Encrypts files and demands payment for decryption.
 Locker Ransomware: Locks users out of their system without encrypting files.
 Ransomware as a Service (RaaS): Attack kits sold or rented out to others.
 
-![Type](https://i.imgur.com/AvxG5bV.jpeg)
+![Type!](https://i.imgur.com/AvxG5bV.jpeg)
 
 A comparison chart highlighting the different types.
 
