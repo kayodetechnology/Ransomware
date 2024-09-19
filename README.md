@@ -33,7 +33,7 @@ Update and Patch: Regularly patch and update systems to close vulnerabilities.
 Employee Training: Teach employees to avoid phishing and suspicious links.
 Anti-Ransomware Tools: Deploy tools that detect and block ransomware.
 
-![Preventions](https://i.imgur.com/EOxJoEA.jpeg)
+![Preventions!](https://i.imgur.com/EOxJoEA.jpeg)
 
 A diagram showing preventive techniques like backups, patching, and employee training.
 
