@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Ransomware is a type of malware that encrypts files and demands payment for decryption. It often spreads through phishing emails and malicious websites, affecting individuals and organizations alike.
+Ransomware is a type of malware that encrypts files and demands payment for decryption. It often spreads through phishing emails and malicious websites, affecting individuals and organizations alike..
 
 ![Introduction!](https://i.imgur.com/UnzI8xq.jpeg)
 
